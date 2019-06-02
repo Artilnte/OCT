@@ -71,3 +71,11 @@ t.circle(30,10)
 t.seth(17)
 t.circle(200,255)
 
+
+
+t.penup() 
+t.goto(-150,-60) 
+t.color("blue") 
+t.write("OCTOCAT", font=('Arial', 20, 'normal')) 
+
+
